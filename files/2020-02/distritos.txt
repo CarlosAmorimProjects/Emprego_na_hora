@@ -1,0 +1,22 @@
+Angra do Heroísmo|Angra do Heroísmo
+Aveiro|Aveiro
+Beja|Beja
+Braga|Braga
+Bragança|Bragança
+Castelo Branco|Castelo Branco
+Coimbra|Coimbra
+Évora|Évora
+Faro|Faro
+Funchal|Funchal
+Guarda|Guarda
+Horta|Horta
+Leiria|Leiria
+Lisboa|Lisboa
+Ponta Delgada|Ponta Delgada
+Portalegre|Portalegre
+Porto|Porto
+Santarém|Santarém
+Setúbal|Setúbal
+Viana do Castelo|Viana do Castelo
+Vila Real|Vila Real
+Viseu|Viseu
