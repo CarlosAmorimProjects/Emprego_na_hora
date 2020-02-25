@@ -1,9 +1,6 @@
 # Emprego na hora
 
-Site de anúncios e candidaturas de emprego com Drupal.
+## DRUPAL website for a job add website.
 
-Utilizador anónimo só tem acesso a visualizar as vagas de emprego disponiveis e ao formulário para efectuar candidatura.
-Admin pode consultar as candidaturas efectuadas e adicionar novas vagas de emprego.
-
-
- 
+Anonymous user can only visualize available job openings and the form to aplly to a particular job opening, admin can
+visualize who applied, the uploaded cv's and add new job openings.
